@@ -1,5 +1,7 @@
 # Cellphone Impact in Crop Loss Prevention due to Wheat Rust
 
+This repository contains all code and final paper written for ECN 372: Seminar in Development Economics
+
 *Abstract From Paper*:
 
 > Wheat is one of the primary crops grown in Ethiopia. Amongst the main challenges for smallholder wheat farmers is wheat rust – a devastating disease that has been responsible for massive losses. To combat the disease the Early Warning System alerts farmers in high-risk areas and provides information on how to combat the disease through a hotline and SMS texts. I examine whether the EWS had an impact on wheat productivity using a triple difference-in-difference approach that examines if cellphone-owning wheat farmers had increased yields after the implementation of the program. My findings indicate that the program had no impact on productivity suggesting that cellphone-based programs alone cannot overcome the various structural issues faced by smallholder farmers. 

@@ -25,3 +25,8 @@ global in "$path/In"
 global out "$path/Out"
 global prog "$path/Programs"
 global fig "$path/Figures"
+	
+	
+** Make sure the ESS zip files are in the 'In' folder!
+** The following script extracs the required dataset from the zip files and appends ESS years for clarity
+python script "0.0.1-file_extract.py"  

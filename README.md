@@ -1,6 +1,6 @@
 # Cell Phone Impact in Crop Loss Prevention due to Wheat Rust
 
-This repository contains all code and final paper written for ECN 372: Seminar in Development Economics
+This repository contains all code and final paper written for my undergraduate course: ECN 372: Seminar in Development Economics at Grinnell College
 
 *Abstract From Paper*:
 
